@@ -4658,6 +4658,28 @@ blockquote {
   font-size: 81px;
 }
 
+.div-block-3 {
+  display: inline-block;
+  position: relative;
+  top: -2px;
+}
+
+.dropdown-toggle {
+  color: var(--sand-storm);
+  padding: 0 40px 0 0;
+  font-size: 16px;
+  line-height: 1.1;
+}
+
+.dropdown-2 {
+  padding-top: 0;
+}
+
+.dropdown-link {
+  font-size: 15px;
+  line-height: 1.1;
+}
+
 @media screen and (max-width: 991px) {
   .container {
     padding-right: var(--_utility-library---spacing-48px);
@@ -5578,6 +5600,14 @@ blockquote {
 
   .fancy-font {
     font-size: 76px;
+  }
+
+  .div-block-3 {
+    display: flex;
+  }
+
+  .div-ddx {
+    padding-left: 40px;
   }
 }
 
