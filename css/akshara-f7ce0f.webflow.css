@@ -1574,7 +1574,7 @@ blockquote {
 }
 
 .footer {
-  z-index: 99;
+  z-index: 88;
   background-color: var(--green2);
   width: 100%;
   margin-top: -10px;
